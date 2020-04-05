@@ -2,6 +2,10 @@
 
 Projeto profissional em Flutter
 
-![deepin-screen-recorder_player_20200403193654](https://user-images.githubusercontent.com/63119956/78410469-c831ff80-75e2-11ea-8d3b-c8cabec78bed.gif)
+Prévia navegação
 
-![deepin-screen-recorder_player_20200403193740](https://user-images.githubusercontent.com/63119956/78410476-cf590d80-75e2-11ea-93b0-b2b95fc81099.gif)
+![screencast-Genymotion-2020-04-05_16 58 55 879](https://user-images.githubusercontent.com/63119956/78508699-487d6f80-775f-11ea-81b8-8c39a6265ee2.gif)
+
+Validação de Campos
+
+![screencast-Genymotion-2020-04-05_17 00 42 791](https://user-images.githubusercontent.com/63119956/78508733-7e225880-775f-11ea-9dce-1733cc9d07a7.gif)
