@@ -1,9 +1,9 @@
 import 'dart:async';
 
-import 'package:espacoideal/screens/home_screen.dart';
+import 'package:espacoideal/screens/navigate.dart';
 import 'package:flutter/material.dart';
 import 'package:espacoideal/screens/cadastro_screen.dart';
-import 'package:espacoideal/validate/imputs_validate.dart';
+import 'package:espacoideal/src/validate/imputs_validate.dart';
 
 class LoginScreen extends StatefulWidget {
   @override
@@ -197,7 +197,7 @@ class _LoginAppState extends State<LoginScreen> {
                         if (_formKey.currentState.validate()) {
                           Navigator.push(
                             context,
-                            MaterialPageRoute(builder: (_) => HomeScreen()),
+                            MaterialPageRoute(builder: (_) => NavigateScreen()),
                           );
                         }
                       },

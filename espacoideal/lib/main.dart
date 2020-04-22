@@ -1,9 +1,9 @@
-import 'package:espacoideal/screens/home_screen.dart';
+import 'package:espacoideal/screens/navigate.dart';
 import 'package:espacoideal/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:espacoideal/screens/cadastro_screen.dart';
 import 'screens/cadastro_screen.dart';
-import 'package:espacoideal/widgets/navDrawer.dart';
+import 'package:espacoideal/components/usu_options.dart';
 
 void main() => runApp(MyApp());
 
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         accentColor: Color(0xFFD8ECF1),
         scaffoldBackgroundColor: Color(0xFFF3F5F7),
       ),
-      home: HomeScreen(),
+      home: NavigateScreen(),
     );
   }
 }

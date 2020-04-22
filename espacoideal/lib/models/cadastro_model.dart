@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-class Cadastro extends StatelessWidget {
+class Cadastro {
   String nome;
   String sobreNome;
   String email;
@@ -12,9 +12,4 @@ class Cadastro extends StatelessWidget {
     this.sobreNome,
     this.senha,
   );
-
-  @override
-  Widget build(BuildContext context) {
-    return Container();
-  }
 }

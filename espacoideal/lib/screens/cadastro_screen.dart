@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:espacoideal/validate/imputs_validate.dart';
+import 'package:espacoideal/src/validate/imputs_validate.dart';
 
 class CadastroScreen extends StatefulWidget {
   @override

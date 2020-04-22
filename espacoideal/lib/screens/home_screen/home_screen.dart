@@ -1,15 +1,14 @@
-import 'package:espacoideal/widgets/navDrawer.dart';
-import 'package:espacoideal/widgets/salas_widget.dart';
-import 'package:espacoideal/widgets/servico_widgets.dart';
+import 'home_components/salas_bilder.dart';
+import 'home_components/servicos_bilder.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-class PainelDeProdutosScreen extends StatefulWidget {
+class HomeScreen extends StatefulWidget {
   @override
   _CasaScreenState createState() => _CasaScreenState();
 }
 
-class _CasaScreenState extends State<PainelDeProdutosScreen> {
+class _CasaScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(
